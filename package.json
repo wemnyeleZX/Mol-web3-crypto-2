@@ -1,0 +1,38 @@
+{
+  "name": "mol-web3-crypto-2",
+  "version": "1.0.0",
+  "description": "Đoạn mã này sử dụng Web3 và các thư viện NFT để tạo ra một giao diện đơn giản cho thị trường NFT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemnyeleZX/Mol-web3-crypto-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemnyeleZX/Mol-web3-crypto-2/issues"
+  },
+  "homepage": "https://github.com/wemnyeleZX/Mol-web3-crypto-2#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "mol-web3-crypto-1": "^1.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "web3-khai-1": "^1.0.1",
+    "web3-khai-10": "^1.0.0",
+    "web3-khai-2": "^1.0.1",
+    "web3-khai-3": "^1.0.0",
+    "web3-khai-4": "^1.0.0",
+    "web3-khai-5": "^1.0.0",
+    "web3-khai-6": "^1.0.0",
+    "web3-khai-7": "^1.0.0",
+    "web3-khai-8": "^1.0.0",
+    "web3-khai-9": "^1.0.0"
+  }
+}
